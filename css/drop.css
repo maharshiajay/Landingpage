@@ -1,0 +1,17 @@
+body{
+    background: url("https://images.pexels.com/photos/808465/pexels-photo-808465.jpeg?auto=compress&cs=tinysrgb&h=650&w=940");
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: 'Catamaran', sans-serif;
+
+
+}
+.center
+{
+    text-align: center;
+    padding-top: 200px;
+}
+h1,p{
+    color: white;
+    
+}
